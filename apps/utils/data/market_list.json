@@ -1,0 +1,806 @@
+[
+    {
+        "market_id": "6",
+        "market_name": "华为",
+        "category_id": "5",
+        "category_name": "应用"
+    },
+    {
+        "market_id": "6",
+        "market_name": "华为",
+        "category_id": "5",
+        "category_name": "影音娱乐"
+    },
+    {
+        "market_id": "6",
+        "market_name": "华为",
+        "category_id": "6",
+        "category_name": "实用工具"
+    },
+    {
+        "market_id": "6",
+        "market_name": "华为",
+        "category_id": "7",
+        "category_name": "社交通讯"
+    },
+    {
+        "market_id": "6",
+        "market_name": "华为",
+        "category_id": "8",
+        "category_name": "教育"
+    },
+    {
+        "market_id": "6",
+        "market_name": "华为",
+        "category_id": "9",
+        "category_name": "新闻阅读"
+    },
+    {
+        "market_id": "6",
+        "market_name": "华为",
+        "category_id": "10",
+        "category_name": "拍摄美化"
+    },
+    {
+        "market_id": "6",
+        "market_name": "华为",
+        "category_id": "11",
+        "category_name": "出行导航"
+    },
+    {
+        "market_id": "6",
+        "market_name": "华为",
+        "category_id": "12",
+        "category_name": "旅游住宿"
+    },
+    {
+        "market_id": "6",
+        "market_name": "华为",
+        "category_id": "13",
+        "category_name": "购物比较"
+    },
+    {
+        "market_id": "6",
+        "market_name": "华为",
+        "category_id": "14",
+        "category_name": "商务"
+    },
+    {
+        "market_id": "6",
+        "market_name": "华为",
+        "category_id": "15",
+        "category_name": "儿童"
+    },
+    {
+        "market_id": "6",
+        "market_name": "华为",
+        "category_id": "16",
+        "category_name": "金融理财"
+    },
+    {
+        "market_id": "6",
+        "market_name": "华为",
+        "category_id": "17",
+        "category_name": "运动健康"
+    },
+    {
+        "market_id": "6",
+        "market_name": "华为",
+        "category_id": "18",
+        "category_name": "便捷生活"
+    },
+    {
+        "market_id": "6",
+        "market_name": "华为",
+        "category_id": "19",
+        "category_name": "汽车"
+    },
+    {
+        "market_id": "6",
+        "market_name": "华为",
+        "category_id": "20",
+        "category_name": "主题个性"
+    },
+    {
+        "market_id": "6",
+        "market_name": "华为",
+        "category_id": "21",
+        "category_name": "美食"
+    },
+    {
+        "market_id": "6",
+        "market_name": "华为",
+        "category_id": "23",
+        "category_name": "游戏"
+    },
+    {
+        "market_id": "6",
+        "market_name": "华为",
+        "category_id": "23",
+        "category_name": "角色扮演"
+    },
+    {
+        "market_id": "6",
+        "market_name": "华为",
+        "category_id": "24",
+        "category_name": "休闲益智"
+    },
+    {
+        "market_id": "6",
+        "market_name": "华为",
+        "category_id": "25",
+        "category_name": "经营策略"
+    },
+    {
+        "market_id": "6",
+        "market_name": "华为",
+        "category_id": "26",
+        "category_name": "体育竞速"
+    },
+    {
+        "market_id": "6",
+        "market_name": "华为",
+        "category_id": "27",
+        "category_name": "棋牌桌游"
+    },
+    {
+        "market_id": "6",
+        "market_name": "华为",
+        "category_id": "28",
+        "category_name": "动作射击"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "168",
+        "category_name": "软件下载榜"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "169",
+        "category_name": "软件飙升榜"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "170",
+        "category_name": "游戏下载榜"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "171",
+        "category_name": "游戏飙升榜"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "174",
+        "category_name": "软件风云榜"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "174",
+        "category_name": "全部软件"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "175",
+        "category_name": "影音视听"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "176",
+        "category_name": "实用工具"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "177",
+        "category_name": "聊天社交"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "178",
+        "category_name": "图书阅读"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "179",
+        "category_name": "时尚购物"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "180",
+        "category_name": "摄影摄像"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "181",
+        "category_name": "学习教育"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "182",
+        "category_name": "旅行交通"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "183",
+        "category_name": "金融理财"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "184",
+        "category_name": "娱乐消遣"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "185",
+        "category_name": "新闻资讯"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "186",
+        "category_name": "居家生活"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "187",
+        "category_name": "体育运动"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "188",
+        "category_name": "医疗健康"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "189",
+        "category_name": "效率办公"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "190",
+        "category_name": "游戏风云榜"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "190",
+        "category_name": "全部游戏"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "191",
+        "category_name": "跑酷闯关"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "192",
+        "category_name": "网游RPG"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "193",
+        "category_name": "赛车体育"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "194",
+        "category_name": "飞行空战"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "195",
+        "category_name": "动作枪战"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "196",
+        "category_name": "格斗快打"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "197",
+        "category_name": "休闲创意"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "198",
+        "category_name": "棋牌桌游"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "199",
+        "category_name": "模拟经营"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "200",
+        "category_name": "战争策略"
+    },
+    {
+        "market_id": "4",
+        "market_name": "小米",
+        "category_id": "201",
+        "category_name": "塔防迷宫"
+    },
+    {
+        "market_id": "8",
+        "market_name": "VIVO",
+        "category_id": "4",
+        "category_name": "应用榜"
+    },
+    {
+        "market_id": "8",
+        "market_name": "VIVO",
+        "category_id": "5",
+        "category_name": "单机榜"
+    },
+    {
+        "market_id": "8",
+        "market_name": "VIVO",
+        "category_id": "6",
+        "category_name": "网游榜"
+    },
+    {
+        "market_id": "8",
+        "market_name": "VIVO",
+        "category_id": "7",
+        "category_name": "热搜榜"
+    },
+    {
+        "market_id": "9",
+        "market_name": "OPPO",
+        "category_id": "5",
+        "category_name": "软件榜"
+    },
+    {
+        "market_id": "9",
+        "market_name": "OPPO",
+        "category_id": "6",
+        "category_name": "游戏榜"
+    },
+    {
+        "market_id": "7",
+        "market_name": "魅族",
+        "category_id": "4",
+        "category_name": "排行"
+    },
+    {
+        "market_id": "7",
+        "market_name": "魅族",
+        "category_id": "4",
+        "category_name": "热门榜"
+    },
+    {
+        "market_id": "7",
+        "market_name": "魅族",
+        "category_id": "6",
+        "category_name": "飙升榜"
+    },
+    {
+        "market_id": "7",
+        "market_name": "魅族",
+        "category_id": "7",
+        "category_name": "新品榜"
+    },
+    {
+        "market_id": "7",
+        "market_name": "魅族",
+        "category_id": "159",
+        "category_name": "游戏榜"
+    },
+    {
+        "market_id": "7",
+        "market_name": "魅族",
+        "category_id": "5",
+        "category_name": "游戏"
+    },
+    {
+        "market_id": "7",
+        "market_name": "魅族",
+        "category_id": "5",
+        "category_name": "畅销榜"
+    },
+    {
+        "market_id": "7",
+        "market_name": "魅族",
+        "category_id": "173",
+        "category_name": "热门榜"
+    },
+    {
+        "market_id": "7",
+        "market_name": "魅族",
+        "category_id": "174",
+        "category_name": "新游榜"
+    },
+    {
+        "market_id": "7",
+        "market_name": "魅族",
+        "category_id": "175",
+        "category_name": "免费榜"
+    },
+    {
+        "market_id": "3",
+        "market_name": "应用宝",
+        "category_id": "154",
+        "category_name": "流行榜"
+    },
+    {
+        "market_id": "3",
+        "market_name": "应用宝",
+        "category_id": "155",
+        "category_name": "新品榜"
+    },
+    {
+        "market_id": "3",
+        "market_name": "应用宝",
+        "category_id": "156",
+        "category_name": "热销榜"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "198",
+        "category_name": "游戏"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "198",
+        "category_name": "热搜榜"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "199",
+        "category_name": "飙升榜"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "200",
+        "category_name": "新游榜"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "201",
+        "category_name": "单机榜"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "202",
+        "category_name": "网游榜"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "203",
+        "category_name": "精品榜"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "204",
+        "category_name": "预约榜"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "205",
+        "category_name": "休闲"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "206",
+        "category_name": "跑酷"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "207",
+        "category_name": "MOBA"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "208",
+        "category_name": "角色扮演"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "209",
+        "category_name": "棋牌"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "210",
+        "category_name": "赛车"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "211",
+        "category_name": "射击"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "212",
+        "category_name": "养成"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "213",
+        "category_name": "塔防"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "214",
+        "category_name": "消除"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "215",
+        "category_name": "解密逃脱"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "216",
+        "category_name": "软件"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "216",
+        "category_name": "热搜榜"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "217",
+        "category_name": "飙升榜"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "218",
+        "category_name": "新锐榜"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "219",
+        "category_name": "视频"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "220",
+        "category_name": "音乐"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "221",
+        "category_name": "社交"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "222",
+        "category_name": "电子书"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "223",
+        "category_name": "直播"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "224",
+        "category_name": "漫画"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "225",
+        "category_name": "购物"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "226",
+        "category_name": "新闻"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "227",
+        "category_name": "拍照"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "228",
+        "category_name": "短视频"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "229",
+        "category_name": "辅导"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "230",
+        "category_name": "儿童"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "231",
+        "category_name": "理财"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "232",
+        "category_name": "旅游"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "233",
+        "category_name": "出行"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "234",
+        "category_name": "母婴"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "235",
+        "category_name": "健康"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "236",
+        "category_name": "办公"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "237",
+        "category_name": "工具"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "238",
+        "category_name": "手机管理"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "239",
+        "category_name": "求职"
+    },
+    {
+        "market_id": "2",
+        "market_name": "百度",
+        "category_id": "240",
+        "category_name": "美化"
+    },
+    {
+        "market_id": "1",
+        "market_name": "360",
+        "category_id": "706",
+        "category_name": "飙升榜"
+    },
+    {
+        "market_id": "1",
+        "market_name": "360",
+        "category_id": "707",
+        "category_name": "热搜榜"
+    },
+    {
+        "market_id": "1",
+        "market_name": "360",
+        "category_id": "708",
+        "category_name": "新锐榜"
+    },
+    {
+        "market_id": "1",
+        "market_name": "360",
+        "category_id": "709",
+        "category_name": "月总榜"
+    },
+    {
+        "market_id": "5",
+        "market_name": "豌豆荚",
+        "category_id": "176",
+        "category_name": "软件下载榜"
+    },
+    {
+        "market_id": "5",
+        "market_name": "豌豆荚",
+        "category_id": "177",
+        "category_name": "游戏下载榜"
+    },
+    {
+        "market_id": "5",
+        "market_name": "豌豆荚",
+        "category_id": "178",
+        "category_name": "专业榜"
+    },
+    {
+        "market_id": "5",
+        "market_name": "豌豆荚",
+        "category_id": "179",
+        "category_name": "飙升榜"
+    },
+    {
+        "market_id": "5",
+        "market_name": "豌豆荚",
+        "category_id": "180",
+        "category_name": "新游榜"
+    },
+    {
+        "market_id": "10",
+        "market_name": "Google Play(美国)",
+        "category_id": "1",
+        "category_name": "应用"
+    },
+    {
+        "market_id": "10",
+        "market_name": "Google Play(美国)",
+        "category_id": "35",
+        "category_name": "游戏"
+    }
+]
